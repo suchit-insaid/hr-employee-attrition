@@ -12,3 +12,13 @@ In this project the outcome is a classification where we judge if the employee i
 
 
 To check out my notebook, please click [here](https://github.com/suchit-insaid/hr-employee-attrition/blob/main/HR_Analytics.ipynb)
+
+This is the website for INSAID - [My new link](https://insaid.co)
+
+1. This is first point
+2. This is second point
+
+|Col1| Colum2 |
+|--|--|
+| Apple | 150 |
+| Banana | 100 |
